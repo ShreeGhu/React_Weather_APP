@@ -39,3 +39,8 @@ To deploy this application locally, follow these steps:
 1. Open http://localhost:3000 to view it in the browser
 
 ## Check out the screenshots.
+![Screenshot1](https://github.com/ShreeGhu/React_Weather_App/blob/main/src/Images/weather1.png)
+![Screenshot2](https://github.com/ShreeGhu/React_Weather_App/blob/main/src/Images/weather2.png)
+![Screenshot3](https://github.com/ShreeGhu/React_Weather_App/blob/main/src/Images/weather3.png)
+
+### Happy Coding!!! :grinning:
